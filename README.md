@@ -22,7 +22,7 @@ You are required to set up a new server in Azure. It must:
 Fork this repository.
 
 * Alter the README to contain the instructions required to:
-  * Create the server.
+  * Create and configure the resources.
   * Run the checker script.
 * Provide a script that can be run periodically (and externally) to check if the server is up and serving the expected version number. Use your scripting language of choice.
 * Provide scripts for the creation and configuration steps (it doesn't have to be a single script)
